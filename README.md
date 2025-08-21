@@ -1,3 +1,4 @@
+# ppt-generator-starter
 # Your Text, Your Style — PPT Generator (Starter)
 
 This repository contains a starter Streamlit app and helper modules to convert bulk text or markdown into a PowerPoint presentation using an LLM to plan slides and `python-pptx` to construct the file.
